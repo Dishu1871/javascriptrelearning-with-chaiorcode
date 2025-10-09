@@ -8,6 +8,6 @@ accountCity="Rajpura"
 let accountState;
 
 /*
-donot use var bcz of scope anf functional scope
+donot use var bcz of block scope anf functional scope
 */
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
